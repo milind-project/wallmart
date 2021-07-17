@@ -1,1 +1,3 @@
- hi we are wrote a sample file
+hi we are doing  is demo...
+
+date
